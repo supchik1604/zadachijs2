@@ -1,0 +1,22 @@
+{
+  "name": "zadachijs2",
+  "version": "1.0.0",
+  "description": "JavaScript задачи и упражнения",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "tasks",
+    "exercises",
+    "learning"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
